@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Generert output
+*.png
+soyle_resultat.png
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store

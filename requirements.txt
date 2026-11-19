@@ -1,0 +1,3 @@
+structuralcodes>=0.7
+numpy
+matplotlib
